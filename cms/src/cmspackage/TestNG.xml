@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Sample test Suite">
+   <test name="Sample test">
+    <classes>
+      <class name="cmspkg.Login" />
+    </classes>
+  </test>
+    <test name="Sample test2">
+    <classes>
+      <class name="cmspkg.CreateRequest" />
+    </classes>
+  </test>
+</suite>
